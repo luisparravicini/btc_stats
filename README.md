@@ -29,12 +29,12 @@ To start the script to update orderbook and buy/sell operations:
 ## Plots
 
 
-`python -m btc_stas.plots.hours` will create something like this:
+`python -m btc_stats.plots.hours` will create something like this:
 
 ![plot 01](plot_hours.png "Trade times")
 
 
-And `python -m btc_stas.plots.rates` will
+And `python -m btc_stats.plots.rates` will
 
 ![plot 02](plot_rates.png "Rates")
 
